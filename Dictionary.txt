@@ -1,0 +1,968 @@
+﻿* Hatal
+   * X1 speaks, says x2
+   * X1 says, tells x2 to x3
+   * X1 talks to x3
+   * lo Hatal: Speaker
+   * Hatal lo
+      * Language
+      * Phrase, sentence
+      * Telling
+* Tom
+   * X1 is (done) by means of x2
+   * X1 is (done) using x2
+   * X2 is used by x3 to (do) x1
+   * X3 uses x2 to (do) x1
+   * (When x2 is a language) X1 is (done) in x2
+   * Tom lo: Tool
+* Hir
+   * X1 is (done) concerning x2
+   * X1 is (done) about x2
+   * X1 is (done) because of x2
+   * X2 causes x1 (to be done)
+   * If x2 happens, x1 happens
+   * X1 is (done) for x2
+   * Hir la: X1 does not happen because of x2
+   * Hir lo: Reason, Purpose
+   * → X kenta Y he hir Z: Z allows X to (do) Y
+   * → X hir xim?: Why (is) X?
+* Der
+   * X1 sees x2
+   * X1 looks at, towards x2
+   * lo Der: Eye
+   * Der lo
+      * Sight
+      * Seen object
+* Wah
+   * X1 makes the sound of a dog barking
+   * lo Wah: Dog
+* Xe
+   * X1 is x2
+   * X1 exists
+   * X1 exists as x2
+   * lo Xe: Object, thing
+* Zus
+   * X1 is many, multiple
+   * There are many, multiple of x1
+   * lo Zus
+      * Group
+      * Collection
+      * A lot
+   * → lo X zus: A group of Xs
+* Njau
+   * X1 makes the sound of a cat meowing
+   * lo Njau: Cat
+* Zato
+   * X1 burns x2
+   * lo Zato: Fire
+   * Zato lo: Fuel
+* Djan
+   * X1 wants (to) x2
+   * X1 wishes for x2
+   * lo Djan: Desire, wish
+   * Djan lo: Goal
+* Mous
+   * X1 is killed by x2
+   * X1 dies (?)
+* Fai
+   * X1 does x2
+   * X2 is done by x1
+   * X1 acts
+   * X2 happens
+* Sen
+   * X1 is (done) on, on top of x2
+   * X1 is (done) onto x2
+* Hawas
+   * X1 is (done) around x2
+   * X1 surrounds, wraps x2
+   * lo Hawas
+      * Cover
+      * Blanket, cloak
+* Bis
+   * X1 must be done by x2 to do x3
+   * X1 must be done
+   * X1 is necessary to (do) x3
+   * X2 must (do) x1
+   * X2 needs x1
+   * lo Bis: Need, necessity
+* Dozu
+   * X1 moves to x2
+   * X1 goes to x2
+   * X1 comes to x2
+   * X1 travels to x2
+   * *The “to” meaning in this verb is default, but using an adpositional verb can override it.
+   * lo Dozu: Traveller
+* Jam
+   * X1 holds x2
+   * X1 has x2
+   * X1 contains x2
+   * X1 consists of x2
+   * X2 makes up x1
+   * X1 is with x2
+   * lo Jam: Container
+* Sum
+   * X1 is (done) missing x2
+   * X1 is (done) without x2
+   * X1 lacks x2
+* Hum
+   * X1 pleases, amuses x2
+   * X2 likes x1
+   * X1 is fun, pleasant
+   * Hum na: X2-s agree on/about x1
+   * lo Hum
+      * Fun, amusement
+      * (adj) Pleasant, fun, amusing
+* Tau
+   * X1 is similar to x2
+   * X1 is like x2
+   * X1 and x2 are alike
+   * X1 and x2 match
+   * X1 seems (like) x2
+   * X1 is x2 (where x2 is describing, an adjective to x2)
+* Raxi
+   * X1 rests
+   * X1 sleeps
+   * lo Raxi: Sleep
+   * → Raxi sen lo: Bed
+* Kjuf
+   * X1 thinks x2
+   * X1 ponders x2
+   * X1 computes, calculates x2
+   * lo Kjuf 
+      * Reason, thoughts
+      * Concience
+      * Calculator
+   * Kjuf lo: Thought
+   * → X kjuf Y he raide: X remembers Y
+* Abi
+   * X1 loves x2
+   * X2 is x1’s favorite x3
+   * lo Abi
+      * Human, person
+      * → X tau go abi: X is natural (for a person)
+   * Abi lo
+      * Love
+      * (adj) Favorite
+   * → Ti abi xim de X?: What’s your favorite X?
+* Tel
+   * X1 happened in the past, before now
+   * X1 happened before x2
+* Naxur
+   * X1 is published, broadcasted by x2
+   * X1 is announced by x2
+   * X1 is posted by x2
+* Ega
+   * X1 is read by x2
+   * lo Ega:
+      * Book
+      * Document
+      * Text (as in “ancient texts”)
+* Xiba
+   * X1 is written by x2
+   * X2 writes x1
+   * lo Xiba: 
+      * Word, text
+      * Letter, character
+* Teili
+   * X1 bores x2
+   * X2 finds x1 boring
+* Gax
+   * X1 is (done) often
+   * X1 is (done) as often as x2
+* Pren
+   * X1 is (done) near
+   * X1 is (done) close to x2
+   * X1 is (done) next to x2
+   * lo Pren: Here, This
+* Kwadis
+   * X1 blocks x2
+   * X1 obscures x2
+   * lo Kwadis: Obstacle, Problem
+* Paxu
+   * X1 continues
+   * X1 persists
+   * X1 still happens
+   * lo Paxu (adj): Long
+* Kere
+   * X1 cuts x2
+   * X1 splits x2
+   * lo Kere: Knife, axe, etc
+   * Kere lo
+      * Part, Place, Region
+      * Part, Section
+* Judux
+   * X1 joins x2 with x3
+   * X2 and x3 come together
+   * X2 and x3 are added
+   * Judux na (r; x3): X2 and x3 attract
+* Kimof
+   * X1 fears, is scared of x2
+   * X2 scares x1
+   * Kimof lo: Fear
+* Hampa
+   * X1 curves, bends
+* Habe
+   * X1 is drank by x2
+   * lo Habe: Drink
+* Zihir
+   * X1 is right, correct
+   * X1 works (correctly)
+* Ispal
+   * X1 hopes for x2
+   * lo Ispal: Hope
+* Meza
+   * X1 is/has more x2 than x3
+   * X1 is/has the most x2
+   * X1 is additional, more
+   * → lo Meza X (adj): More X, X-er
+* Daga
+   * X1 is large, big
+   * lo Daga: Size
+* Ibel
+   * X1 builds, constructs x2
+   * X1 creates, makes x2
+   * → X zango go ibel: X’s house
+* Maho
+   * When x1 happens, x2 happens
+   * X1 happens while, during x2 happens
+   * (When x2 is a time) X1 is/was (done) on/in x2
+   * (When x2 is a time) It is x2
+   * lo Maho: Time
+   * → X dipir go maho Y: The X-th time Y happens
+   * Maho lo
+      * (A) Time, Occurrence
+      * Event
+* Mjuwas
+   * X1 describes x2
+   * X1 names x2
+   * lo Mjuwas: 
+      * Description
+      * Name
+* Xajo
+   * X1 means x2
+   * X1 translates into x2
+   * X1 is translated into x2 by x3
+   * Xajo na (r): X1 and x2 mean the same thing
+   * Xajo lo: 
+      * Translation 
+      * Meaning
+* Dem
+   * X1 is owned by x2
+   * X1 is x2’s
+   * lo Dem: Owner
+   * Dem lo: Possession
+* Xurel
+   * X1 is at ease
+   * X1 is done with ease
+   * X1 is light (of weight)
+   * X1 is done simply
+   * X2 finds x1 simple, easy, light
+   * lo Hural (adj): 
+      * Easy
+      * Light
+      * Simple, Basic
+* Ondar
+   * X1 is done with difficulty
+   * X1 is heavy
+   * X1 is done complexly
+   * X2 finds x1 complex, hard, heavy
+* Dipir
+   * X1 is element x2 of x3
+   * X1 is an element, part of x3
+   * X1 is x2-st/-nd/-th
+* Kenta
+   * X1 is able to, can (do) x2
+   * → lo Kenta (x2): Ability (to do x2)
+* Manga
+   * X1 fits x2
+   * X1 fits in (with) x2
+* Hazel
+   * X1 is peaceful
+   * lo Hazel: Peace
+* Zare
+   * X1 is cut by x2
+   * lo Zare: Section, portion, bit, piece
+* Ikou
+   * X1 is the entirety of x2
+   * X1 is all of x2
+   * X1 is every x2
+   * X1 happens every time x2 happens
+   * X1 is everything, is all
+   * lo Ikou
+      * Everything, entirety
+      * Amount
+   * → lo Ikou x2: 
+      * All of x2, (the) whole of x2
+      * Each x2
+      * Amount of x2
+   * → (Lo) Jam go ikou: Full
+* Jati
+   * X1 is given to x2 by x3
+   * lo Jati: Given, Right
+* Nazelau
+   * X1 is given birth to by x2
+* Xifo
+   * X1 and x2 are equal
+   * X1 and x2 are the same
+   * lo Xifo: Equality, (adj) Equal, Fair
+* Hujo
+   * X1 is freed by x2
+   * lo Hujo: Freedom, (adj) Free
+* Xesem
+   * X1 grows
+   * X1 grows into x2
+   * lo Xesem:
+      * Plant, Tree
+      * Life
+      * → lo Xesem twali: Fruit
+      * → lo Xesem mjal: Vegetable
+* Kjaza
+   * X1 is false
+   * X1 is wrong, incorrect
+* Kuse
+   * X1 rounds out, is round
+   * X1 is smooth
+   * lo Kuse:
+      * (adj) Smooth
+      * (adj) Round
+      * Globe; Earth
+* Gjere
+   * X1 cares for, about x2
+* Sandi
+   * X1 believes (in) x2
+   * X1 thinks (that) x2
+* Bin
+   * X1 is (done) between x2 and x3
+   * X1 is (done) between x2s
+   * X1 is (done) across, along x2(s)
+   * X1 is as long as x2 (of distance)
+* Gjum
+   * X1 and x2 are together
+   * X1 is (done) with x2
+   * Gjum na (r): X1 and x2 accompany each other
+   * lo Gjum:
+      * State, Nation, Country
+      * Group, Category
+* Iten
+   * X1 is (done) despite x2
+   * X1 (happens), but x2 (happens)
+   * X1 happens regardless, anyway
+* Ain
+   * X1 is (done) every year
+   * lo Ain: Year
+* Daus
+   * X1 is (done) after x2
+   * X1 follows, succeeds x2
+   * (When x3 is a time) X1 is done x3 after x2
+   * → X daus go jada: X happens after now, from now on
+* Inja
+   * X1 is (done) since x2
+   * X1 has been (done) for as long as x2 (only of time)
+   * X1 is, has been done for a while
+* Xaifa
+   * X1 blows x2
+   * lo Xaifa: 
+      * Wind
+      * Blowing, bluster
+* Silan
+   * X1 shines
+   * X1 illuminates x2
+   * lo Silan
+      * Light
+      * (adj) Bright
+      * Star
+      * Sun
+* Ugja
+   * X1 fights, battles, attacks x2 over, for, about x3
+   * Ugja na (r): X1 and x2 quarrel, have an argument over x3
+   * lo Ugja:
+      * Fight, battle, attack
+      * Argument (optionally with na)
+* Sedi
+   * X1 is tough
+   * X1 is hard
+   * X1 is strong
+   * lo Sedi (adj): Strong, tough, hard
+* Heri
+   * X1 heats x2
+   * X1 is hot, gives off heat
+   * lo Heri:
+      * (adj) Hot, warm
+      * Heat, Warmth
+* Talka
+   * X1 transports x2
+   * X1 brings x2
+   * lo Talka: Road
+* Hajus
+   * X1 ends, stops, halts x2
+   * X1 stops
+   * lo Hajus X: End (of X)
+* Lauma
+   * X1 marks x2
+   * X1 points out x2 to x3
+   * X1 signals x2 to x3
+   * lo Lauma: 
+      * Point, marking
+      * Sign, signal
+* Bizi
+   * X1 is started, begun by x2
+   * X1 starts
+   * lo Bizi: Start, beginning
+* Max
+   * X1 happens recently to x2
+   * X1 happens, happened recently
+   * X1 will happen soon
+   * X max he jada: X1 happened, happens, will happen immediately
+* Duxke
+   * X1 learns x2
+   * X1 studies x2
+   * lo Duxke: Student
+   * Duxke lo
+      * Study
+      * Science
+* Xau
+   * X1 will/would be done
+   * (When x2 is a time) X1 is/will be done at x2
+* Heja
+   * X1 is complete, done, finished
+   * (When x2 is a time) X1 was done/completed at x2
+* Posar
+   * X1 peels off of x2
+   * X1 is pulled off of x2
+   * X2 is stripped of x1
+   * Posar na: X2 takes off its x1
+* Isa
+   * X1 sends x2
+* Nola
+   * X1 hits x2
+   * X1 slams into x2
+   * Nola na (r): X1 and x2 collide
+   * lo Nola: Hit, blast
+* Prija
+   * X1 cools x2
+   * lo Prija (adj): Cool, cold
+* Ilu
+   * X1 is done to x2
+   * X1 is done towards x2
+   * X1 is done facing x2
+* Tuko
+   * X1 shakes
+* Nor
+   * The (more) x1 x2 is/has, the (more) x1 x3 is/has
+   * X2 is as x1 as x3
+   * X2 has as much x1 as x3
+   * X2 is as much as x3
+   * X2 is (to) the same degree of x1 as x3
+   * → X nor xim?: How much X (is there)? To what extent is X?
+   * → X hir e Y nor Z: Z is/has so much Y that X happened
+* Axpa
+   * X1 fails to be done by x2
+   * X2 fails (to) x1
+* Mare
+   * X1 is soft
+   * X1 is weak
+   * X1 is gentle
+   * lo Sedi (adj): Soft, weak, gentle
+* Kos
+   * X1 is undone by x2
+   * X1 is reversed by x2
+* Firo
+   * X1 changes to x2
+   * Firo na: X1 becomes x2
+   * lo Firo: Change
+* Morsi
+   * X1 wipes x2
+   * X1 brushes (against) x2
+* Ein
+   * X1 is (done) off (of) x2
+   * X1 is (done) from x2
+   * X1 is (done) away from x2
+* Temal
+   * X1 is at the top of x2
+   * X1 is on top of x2
+   * lo Temal: 
+      * Top
+      * Cap, hat
+      * Head (?)
+* Wesa
+   * X1 faces outward from x2
+   * X1 moves out from, of x2
+   * lo Wesa: Face (of person, animal, shape)
+* Ahau
+   * X1 is final
+   * X1 is done finally
+   * X1 does not change
+   * → X dipir go ahau, de Y: X is the last (of) Y
+* Aste
+   * X1 is (done) under, beneath, below x2
+* Okei
+   * X1 is okay
+   * X2 finds x1 okay
+* Kaxo
+   * Compared to x3, x1 is x2
+* Enga
+   * X1 obscures x2
+   * X1 is obscure
+   * X1 is unclear, ambiguous
+   * X1 is opaque
+   * X1 blocks x2 from being (done) by x3
+* Loxki
+   * X1 is logical, has logic
+   * lo Loxki: Logic
+* Kjas
+   * X1 is true
+   * X1 is correct
+   * X1 is real
+   * X1 is verified by x2
+* Ganatju
+   * X1 is worthy of x2
+   * X1 is worthy, dignified
+   * X1 is worthy to x3
+   * X3 is proud of/to x1
+   * lo Ganatju: Dignity
+   * Ganatju do: Pride, adj. Proud
+* Xuwa
+   * X1 wets x2
+   * lo Xuwa: Water
+* Zandi
+   * X1 is new to x2
+   * X1 is recent
+   * X1 is new
+   * lo Zandi: News
+* Sax
+   * X1 is good, well, favorable to x2
+   * X2 finds x1 good, well, favorable
+   * X1 is done well
+   * lo Sax: (adj) Good
+* Kajem
+   * X1 can be/have (done by) x2
+   * X1 may be/have (done by) x2
+   * lo Kajem: (adj) Possible
+* Ju
+   * X1 is singular
+   * There is one of x1
+   * X1 is alone
+   * X1 is unique
+   * There is only x1
+   * Only x1 is done
+   * X1 is one of x2
+   * lo Ju
+      * One
+      * Unit
+* Ezo
+   * X1 is two
+   * X1 is a pair
+   * X1-s are a pair, come in pairs
+   * X1 is two of x2
+   * lo Ezo: Two
+* Nalux
+   * There are three of x1
+* Rati
+   * There are four of x1
+* Kweme
+   * There are five of x1
+* Silta
+   * There are six of x1
+* Xibeta
+   * There are seven of x1
+* Fafer
+   * There are eight of x1
+* Ambus
+   * There are nine of x1
+* Gomol
+   * There are ten of x1
+* Biju
+   * There are a hundred of x1
+* Falen
+   * There are a thousand of x1 
+* Dogan
+   * X1 has knowledge of x2
+   * X1 knows of, about x2
+   * X1 learned of, about x2 from x3
+   * lo Dogan (adj): Smart
+   * Dogan lo (adj): Known
+* Hofte
+   * X1 understands x2
+   * X1 comprehends x2
+   * X1 knows how to (do) x2
+* Din
+   * X1 is at x2
+   * X1 is by x2
+   * X1 is near, nearby (to) x2
+   * X1 is where x2 is, happens
+   * → lo Din X: Place of X
+   * → Xol din X?: Where is X?
+* Mandi
+   * X1 is slowed by x2
+   * X1 is (done) slow(ly)
+   * lo Manti (adj): Slow
+* Sabali
+   * X1 is north of x2
+* Hije
+   * X1 is east of x2
+* Fjehi
+   * X1 is west of x2
+* Junse
+   * X1 is south of x2
+* Haufi
+   * X1 costs x2
+   * X1 is worth (as much as) x2
+   * Haufi na: X1-s cost the same
+   * Haufi lo: Price, cost
+* Hutura
+   * X1 takes a picture of x2
+   * lo Hutura: Camera
+   * Hutura lo: Picture, Image
+* Lenda
+   * X1 is found by x2
+   * X1 is discovered by x2
+* Pjanta
+   * X1 is flattened by x2
+   * lo Pjanta (adj): Flat
+* Fel
+   * X1 is (done) inside of x2
+   * X1 is (done) in x2
+* Zango
+   * X1 dwells, resides, lives in/on x2
+   * (When x2 is a place/region) X1 is from x2
+   * Zango lo: Home
+* Zabla
+   * X1 cooks, bakes, fires, etc x2
+   * Zabla na: X2 cooks in/on x1
+* Kido
+   * X1 eats x2
+   * Kido lo: Food
+* Golnas
+   * X1 melts into x2
+   * X1 melts, creating x2
+   * X1 melts
+* Sapri
+   * X1 is small, a little
+   * X1 happens a little
+   * X1 is some, a portion of x2 (like ikou)
+   * lo Sapri
+      * (adj) Small, little
+      * A little
+* Intar
+   * X1 is bought, purchased by x2
+   * X2 buys x1
+   * lo Intar: Purchase
+* Sekan
+   * X1 watches x2
+   * X1 views x2
+   * Sekan lo: Video
+* Jada
+   * X1 happens now
+   * X1 happens close to x2 (specifically for time; pren can also be used)
+* Letu
+   * X1 must be done by x3 in order to x2
+   * In order to (do) x2, x1 must be done by x3
+   * X1 was/will be done by x3 in order to (do) x2
+   * X3 will do/did/does x1 so that x2 (happens)
+* Nos
+   * X1 is received by x2 
+   * X2 gets, gains x1 from x3
+   * X3 gives x2 to x1
+   * lo Nos: Gain, advantage
+* Raide
+   * X1 returns 
+   * X1 responds, answers
+   * X1 is (done) again
+   * lo Raide
+      * Response, answer
+      * Return
+* Xairas
+   * X1 is the main x2 of x3
+   * X1 is the main element, part, instance of x3
+* Zotja
+   * There are various x1(-s)
+   * X1-s are varied, various, different
+   * X1 is different to x2
+   * X1 is distinguished from x2 by x3
+   * X1 is distinguished from x2
+   * lo Zotja
+      * (adj) Different
+      * Distinction
+* Krasa
+   * X1 is almost all of x2
+   * X1 is most of x2
+   * X1 is the majority of x2
+   * lo Krasa: (The) Majority
+   * → lo Krasa X: The majority of X
+* Karmi
+   * X1 is at, in the center of x2
+   * X1 is centered on, around x2
+   * lo Karmi: Center
+* Xaze
+   * X1 thanks x2
+   * X1 is grateful for x2’s x3
+   * X1 is grateful for x2 doing x3
+   * → Xaze ti!: Thank you!
+* Djako
+   * X1 is taught by x2 to x3
+   * X2 teaches x1 to x3
+   * lo Djako: Lesson
+   * Djako lo: Teacher
+   * Djako do (?): Student
+* Sjeno
+   * X1 sounds, makes the sound (of) x2
+   * X1 pronounces the sound x2
+   * X1 makes sound, noise
+   * Sjeno lo: 
+      * Sound, noise
+      * Pronunciation
+* Otol
+   * X1 is listed by x2
+   * lo Otol: List
+* Xurti
+   * X1 is in x2 order (like alphabetical order)
+   * X1 is in order, is orderly
+   * lo Xurti: Order
+* Pwel
+   * (For, on, in) Each x1, x2 happens
+   * X2 is (done) (for, on, in) each x1
+* Rai
+   * X1 is any one of x2
+   * X1-s are any of x2
+   * → X rai la Y: X is none of Y
+   * lo Rai
+      * Anything
+      * Something
+      * → lo Rai la: Nothing
+* Glami
+   * X1 freezes x2
+   * X1 freezes, is frozen
+   * lo Glami
+      * Ice
+   * Glami lo
+      * (adj) Frozen
+      * Ice
+* Fanjas
+   * X1 smells x2
+   * lo Fanjas: Nose
+* Ardu
+   * X1 hears x2
+   * X1 listens to x2
+   * lo Ardu: Ear
+   * Ardu lo
+      * Music, song
+      * Sound, noise
+* Lixe
+   * X1 tastes x2
+   * lo Lixe: Tongue
+* Izus
+   * X1 points at x2
+   * lo Izus: 
+      * Finger
+      * Pointer
+* Aida
+   * X1 (actively) carries x2
+   * X1 holds (up) x2
+   * *For “passive” carrying, use Jam.
+   * lo Aida: Hand, Arm
+* Zama
+   * X1 combs, brushes x2
+   * lo Zama: Comb, brush
+   * Zama lo: Hair
+* Finxa
+   * X1 is crafted by x2
+   * lo Finxa: Art 
+   * → lo Finxa sjeno lo: Music
+   * → lo Finxa go maze: Acting; Performance Art
+* Maze
+   * X1 deceives x2
+   * X1 acts like, as x2
+   * lo Maze:
+      * Deception, lie
+      * Acting
+   * Maze lo:
+      * Fool
+      * Character
+      * Manner, Way
+* Parxo
+   * X1 looks for x2 in x3
+   * X1 searches for x2 in x3
+   * *The x3 parameter is used for a source (searching in a book, on the internet, etc), not a location.
+   * lo Parxo: Search (parxo by itself can also be used)
+* Endu
+   * X1 goes the same direction as x2
+   * X1 is, goes with x2
+   * Endu la: Against
+* Aum
+   * X1 is x2 or x3
+   * X2 or x3 happens
+   * (X1 is any of x2 or x3)
+   * Aum la: Nor
+* Hari
+   * X1 breathes (in) x2
+   * lo Hari: Animal
+   * Hari lo: Air
+* Hanke
+   * X1 is mixed into x2 by x3
+* Gomblas
+   * X1 works on x2
+   * X1 works
+   * (when x1 is a machine) X1 runs
+   * lo Gomblas: Machine
+   * Gomblas lo: Work
+* Twali
+   * X1 is sweet, sugary
+   * X2 finds x1 sweet, sugary
+   * lo Twali
+      * Sugar
+      * (adj) Sweet, Sugary
+* Mjal
+   * X1 is savory, salty
+   * X2 finds x1 savory, salty
+   * lo Mjal
+      * Salt
+      * (adj) Savory, Salty
+* Untja
+   * X1 is/has too much, too many of x2
+   * X1 is too x2
+   * X1 is/has too much
+* Paus
+   * X1 is (done) over x2
+   * X1 is (done) above x2
+* Jesni
+   * X1 should be done by x2 according to x3
+   * X2 should do x1
+   * “Let’s x1!”
+* Bouste
+   * X1 is prepared for x2 by x3
+   * X1 is ready for x2
+   * X3 prepares x1 for x2
+   * lo Bouste (adj): Ready
+* Mauzi
+   * X1 dies from x2
+   * X1 dies
+* Swer
+   * X1 is sped up by x2
+   * X1 is (done) quick(ly)
+   * lo Swer (adj): Fast, Quick
+* Kjan
+   * X1 sings x2
+   * Kjan lo: Song, Music
+* Gumba
+   * X1 rains from x2
+   * X2 rains x1
+   * X2 rains
+   * lo Gumba: Rain
+   * Gumba lo: Cloud
+* Iste
+   * X1 waits for x2 (to happen) for x3 amount of time
+   * X1 pauses until x2 (happens)
+   * X1 pauses
+* Xeiga
+   * X1 is woken up by x2
+   * X1 wakes up, is awake
+   * lo Xeiga (adj): Awake
+* (T?D?)jen
+   * X1 happens every day, daily
+   * lo Tjen: Day
+* Zadi
+   * X1 knows x2 will happen
+   * X1 is sure about x2 (happening)
+   * X1 is sure
+* Saul
+   * X1 is happy, glad about x2
+* Erxo 
+   * X1 is annoyed by x2
+   * X1 finds x2 annoying
+   * X2 is annoying
+* Adjal
+   * X1 reaches, arrives at x2
+   * (when x2 is a place) X1 gets to x2
+* Wastir
+   * X1 is male
+   * lo Wastir (adj): Masculine
+* Njufa
+   * X1 is female
+   * lo Nufa (adj): Feminine
+* Jaunxir
+   * X1 is young
+   * X1 is fresh
+   * X1 is new
+* Bjanda
+   * X1 counts x2-s
+   * X1 measures x2
+   * Lo Bjanda:
+      * Number, Amount
+      * Measurement
+* Jaklo
+   * X1 is made to (do) x2 by x3
+* Gwairu
+   * X1 is enforced by x2
+   * lo Gwairu: Rule, Law
+* Fasai
+   * X1 is put, placed by x2
+* Kerxi
+   * X1 is related, by blood or otherwise, to x2
+   * X1 is related to x2 by x3
+   * lo Kerxi: Relative
+      * → lo Kerxi zus: Family
+* Ulnewo
+   * X1 is sorted, organized according to/by/in x2 by x3
+* Swain
+   * X1 asks x2 to x3 (like hatal)
+   * Swain lo: Question
+* Njelu
+   * X1 happens every night
+   * lo Njelu: Night
+* Dembinga
+   * X1 pumps x2
+   * X1 circulates x2
+   * → lo Dembinga go sendje: Heart
+* Sendje
+   * X1 is bled from x2’s x3
+   * X2 bleeds x1 from its x3
+   * lo Sendje: Blood
+* Paskol
+   * X1 is helped by x2
+   * Paskol lo: Help
+* Sainga (?)
+   * X1 is allowed to do x2 by x3
+   * X3 lets x1 do x2
+* Baidal
+   * X1 is colored, stained, etc white from x2 by x3
+   * X1 is brightened from x2 by x3
+* Aistu
+   * X1 is colored, stained, etc black from x2 by x3
+   * X1 is darkened from x2 by x3
+* Urna
+   * X1 is colored, stained, etc red from x2 by x3
+* Hadax
+   * X1 is colored, stained, etc green (/blue) from x2 by x3
+* Lauza
+   * X1 plays
+   * X1 has fun
+* Fulta
+   * X1 flies
+* Sjule
+   * X1 sits in/on x2
+* Jehim
+   * X1 is friendly to x2
+   * X2 finds x1 friendly
+   * → Jehim na: X1-s/X1 and x2 are friends
+* Gakam
+   * X1 cries, weeps, sobs, etc
+* Zauraf
+   * X1 is clear, transparent
+   * X1 is able to be looked through
+   * lo Zauraf: Window
+* Azin
+   * X1 regrets x2
+   * X1 is sorry for x2
+* Kein
+   * X1 takes x2 from x3
+   * X1 takes x3’s x2
+* Drain
+   * X1 is (done) behind x2
+   * X1 is (done) at/on/in the back of x2
+* Xora
+   * X1 is (done) every hour
+   * lo Xora: Hour
+* Fozar
+   * X1 inspects, examines x2
+   * X1 checks on x2
+* Hauxti
+   * X1 is activated, turned on by x2
