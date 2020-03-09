@@ -27,7 +27,9 @@
    * → X hir xim?: Why (is) X?
 * Der
    * X1 sees x2
+   * X1 notices x2
    * X1 looks at, towards x2
+   * Der na: X1 and x2 meet
    * lo Der: Eye
    * Der lo
       * Sight
@@ -39,7 +41,7 @@
    * X1 is x2
    * X1 exists
    * X1 exists as x2
-   * lo Xe: Object, thing
+   * lo Xe: Object, thing, stuff
 * Zus
    * X1 is many, multiple
    * There are many, multiple of x1
@@ -48,6 +50,7 @@
       * Collection
       * A lot
    * → lo X zus: A group of Xs
+   * → X tau Y he zus: X is very Y
 * Njau
    * X1 makes the sound of a cat meowing
    * lo Njau: Cat
@@ -62,7 +65,7 @@
    * Djan lo: Goal
 * Mous
    * X1 is killed by x2
-   * X1 dies (?)
+   * Mous na: X1 dies
 * Fai
    * X1 does x2
    * X2 is done by x1
@@ -77,6 +80,7 @@
    * lo Hawas
       * Cover
       * Blanket, cloak
+      * Clothes
 * Bis
    * X1 must be done by x2 to do x3
    * X1 must be done
@@ -86,7 +90,7 @@
    * lo Bis: Need, necessity
 * Dozu
    * X1 moves to x2
-   * X1 goes to x2
+   * X1 goes, leaves to x2
    * X1 comes to x2
    * X1 travels to x2
    * *The “to” meaning in this verb is default, but using an adpositional verb can override it.
@@ -102,10 +106,10 @@
 * Sum
    * X1 is (done) missing x2
    * X1 is (done) without x2
-   * X1 lacks x2
+   * X1 lacks, needs x2
 * Hum
    * X1 pleases, amuses x2
-   * X2 likes x1
+   * X2 likes, enjoys x1
    * X1 is fun, pleasant
    * Hum na: X2-s agree on/about x1
    * lo Hum
@@ -127,11 +131,14 @@
    * X1 thinks x2
    * X1 ponders x2
    * X1 computes, calculates x2
+   * Kjuf na: X1 imagines x2
    * lo Kjuf 
       * Reason, thoughts
       * Concience
       * Calculator
-   * Kjuf lo: Thought
+   * Kjuf lo
+      * Thought
+      * Idea
    * → X kjuf Y he raide: X remembers Y
 * Abi
    * X1 loves x2
@@ -145,7 +152,10 @@
    * → Ti abi xim de X?: What’s your favorite X?
 * Tel
    * X1 happened in the past, before now
-   * X1 happened before x2
+   * X1 happened before, previously to x2
+   * (When x2 is a time) X1 happened x2 ago
+   * (When x2 is a quantity) X1 is the x2-th previous
+   * lo Tel (adj): Previous
 * Naxur
    * X1 is published, broadcasted by x2
    * X1 is announced by x2
@@ -173,6 +183,7 @@
    * X1 is (done) close to x2
    * X1 is (done) next to x2
    * lo Pren: Here, This
+   * (lo) Pren la: (The) Other
 * Kwadis
    * X1 blocks x2
    * X1 obscures x2
@@ -181,19 +192,23 @@
    * X1 continues
    * X1 persists
    * X1 still happens
+   * X1 is continued by x2
    * lo Paxu (adj): Long
 * Kere
    * X1 cuts x2
    * X1 splits x2
+   * X2 is divided by x1
+      * → lo ezo kere X: Half of X
    * lo Kere: Knife, axe, etc
    * Kere lo
       * Part, Place, Region
       * Part, Section
 * Judux
-   * X1 joins x2 with x3
+   * X1 joins, bonds x2 with x3
    * X2 and x3 come together
    * X2 and x3 are added
    * Judux na (r; x3): X2 and x3 attract
+   * lo Judux: Joint, Bond
 * Kimof
    * X1 fears, is scared of x2
    * X2 scares x1
@@ -212,8 +227,13 @@
 * Meza
    * X1 is/has more x2 than x3
    * X1 is/has the most x2
-   * X1 is additional, more
+   * X1 is (done) additional, more
    * → lo Meza X (adj): More X, X-er
+* Ispax
+   * X1 is/has less x2 than x3
+   * X1 is/has the least x2
+   * X1 is (done) not as much, less
+   * → lo Ispax X (adj): Less X
 * Daga
    * X1 is large, big
    * lo Daga: Size
@@ -224,10 +244,13 @@
 * Maho
    * When x1 happens, x2 happens
    * X1 happens while, during x2 happens
+   * X1 happens at (the) x2 time
    * (When x2 is a time) X1 is/was (done) on/in x2
    * (When x2 is a time) It is x2
    * lo Maho: Time
    * → X dipir go maho Y: The X-th time Y happens
+   * → Xim maho X?: When did x2 happen? When is x2 happening?
+   * → Maho la: X1 never happens (when x2 happens)
    * Maho lo
       * (A) Time, Occurrence
       * Event
@@ -239,6 +262,7 @@
       * Name
 * Xajo
    * X1 means x2
+   * X2 defines x1
    * X1 translates into x2
    * X1 is translated into x2 by x3
    * Xajo na (r): X1 and x2 mean the same thing
@@ -286,6 +310,7 @@
    * X1 is all of x2
    * X1 is every x2
    * X1 happens every time x2 happens
+   * X1 happens x2 times
    * X1 is everything, is all
    * lo Ikou
       * Everything, entirety
@@ -294,7 +319,8 @@
       * All of x2, (the) whole of x2
       * Each x2
       * Amount of x2
-   * → (Lo) Jam go ikou: Full
+   * → (lo) Jam go ikou: Full
+   * → (lo) Maho go ikou: Always
 * Jati
    * X1 is given to x2 by x3
    * lo Jati: Given, Right
@@ -330,6 +356,7 @@
 * Sandi
    * X1 believes (in) x2
    * X1 thinks (that) x2
+   * Sandi na: X1 expects x2
 * Bin
    * X1 is (done) between x2 and x3
    * X1 is (done) between x2s
@@ -350,14 +377,17 @@
    * X1 is (done) every year
    * lo Ain: Year
 * Daus
-   * X1 is (done) after x2
+   * X1 is (done) after, later than x2
+   * X1 is done after now, in the future
    * X1 follows, succeeds x2
+   * X2 is done, then x1 is done
    * (When x3 is a time) X1 is done x3 after x2
    * → X daus go jada: X happens after now, from now on
+   * → X daus do jada: X is about to happen
 * Inja
    * X1 is (done) since x2
    * X1 has been (done) for as long as x2 (only of time)
-   * X1 is, has been done for a while
+   * X1 is, has been done for, in a while
 * Xaifa
    * X1 blows x2
    * lo Xaifa: 
@@ -393,8 +423,9 @@
    * X1 brings x2
    * lo Talka: Road
 * Hajus
-   * X1 ends, stops, halts x2
+   * X1 is ended, stopped, halted by x2
    * X1 stops
+   * Hajus na: X1 or X2 quits
    * lo Hajus X: End (of X)
 * Lauma
    * X1 marks x2
@@ -411,7 +442,8 @@
    * X1 happens recently to x2
    * X1 happens, happened recently
    * X1 will happen soon
-   * X max he jada: X1 happened, happens, will happen immediately
+   * X1 just happened
+   * X max he jada: X1 happens, will happen immediately
 * Duxke
    * X1 learns x2
    * X1 studies x2
@@ -421,10 +453,10 @@
       * Science
 * Xau
    * X1 will/would be done
-   * (When x2 is a time) X1 is/will be done at x2
+   * (When x2 is a time) X1 is/will be done at x2 by x3
 * Heja
-   * X1 is complete, done, finished
-   * (When x2 is a time) X1 was done/completed at x2
+   * X1 is complete, done, finished, ended by by x2
+   * X2 finishes x1
 * Posar
    * X1 peels off of x2
    * X1 is pulled off of x2
@@ -444,8 +476,10 @@
    * X1 is done to x2
    * X1 is done towards x2
    * X1 is done facing x2
+   * X1 is done in the direction of x2
 * Tuko
-   * X1 shakes
+   * X1 shakes x2
+   * Tuko na: X1 shakes
 * Nor
    * The (more) x1 x2 is/has, the (more) x1 x3 is/has
    * X2 is as x1 as x3
@@ -467,7 +501,7 @@
    * X1 is reversed by x2
 * Firo
    * X1 changes to x2
-   * Firo na: X1 becomes x2
+   * Firo na: X1 becomes, transforms into x2
    * lo Firo: Change
 * Morsi
    * X1 wipes x2
@@ -533,6 +567,12 @@
    * X2 finds x1 good, well, favorable
    * X1 is done well
    * lo Sax: (adj) Good
+   * lo Meza go sax (adj): Best
+* Huxi
+   * X1 is bad, poor, unfavorable to x2
+   * X2 finds x1 bad, poor, unfavorable
+   * X1 is done poorly
+   * lo Huxi (adj): Bad
 * Kajem
    * X1 can be/have (done by) x2
    * X1 may be/have (done by) x2
@@ -637,14 +677,15 @@
    * X1 melts
 * Sapri
    * X1 is small, a little
-   * X1 happens a little
+   * X1 happens a little, kind of
    * X1 is some, a portion of x2 (like ikou)
    * lo Sapri
-      * (adj) Small, little
+      * (adj) Small, little, (cute)
       * A little
+   * → lo Sapri maho X: Sometimes X
 * Intar
-   * X1 is bought, purchased by x2
-   * X2 buys x1
+   * X1 is bought, purchased by x2 for x3
+   * X2 buys x1 for x3
    * lo Intar: Purchase
 * Sekan
    * X1 watches x2
@@ -653,11 +694,13 @@
 * Jada
    * X1 happens now
    * X1 happens close to x2 (specifically for time; pren can also be used)
+   * X1 is about to happen
 * Letu
    * X1 must be done by x3 in order to x2
    * In order to (do) x2, x1 must be done by x3
    * X1 was/will be done by x3 in order to (do) x2
    * X3 will do/did/does x1 so that x2 (happens)
+   * X1 (happens), so x2 (happens).
 * Nos
    * X1 is received by x2 
    * X2 gets, gains x1 from x3
@@ -680,8 +723,9 @@
    * X1 is distinguished from x2 by x3
    * X1 is distinguished from x2
    * lo Zotja
-      * (adj) Different
+      * (adj) Different, Other
       * Distinction
+   * → lo Zotja la: Same, Regular
 * Krasa
    * X1 is almost all of x2
    * X1 is most of x2
@@ -710,31 +754,35 @@
    * Sjeno lo: 
       * Sound, noise
       * Pronunciation
+      * (adj) Loud
 * Otol
    * X1 is listed by x2
    * lo Otol: List
 * Xurti
    * X1 is in x2 order (like alphabetical order)
+   * X1 is put in x2 order by x3
    * X1 is in order, is orderly
    * lo Xurti: Order
 * Pwel
    * (For, on, in) Each x1, x2 happens
    * X2 is (done) (for, on, in) each x1
+   * X2 happens x1 time(s)
 * Rai
    * X1 is any one of x2
    * X1-s are any of x2
    * → X rai la Y: X is none of Y
    * lo Rai
-      * Anything
-      * Something
+      * Anything, Anyone
+      * Something, Someone
       * → lo Rai la: Nothing
+      * → lo Rai la X: None of X
 * Glami
-   * X1 freezes x2
+   * X1 is frozen by x2
    * X1 freezes, is frozen
    * lo Glami
+      * (adj) Frozen
       * Ice
    * Glami lo
-      * (adj) Frozen
       * Ice
 * Fanjas
    * X1 smells x2
@@ -754,6 +802,7 @@
    * lo Izus: 
       * Finger
       * Pointer
+      * Arrow
 * Aida
    * X1 (actively) carries x2
    * X1 holds (up) x2
@@ -766,6 +815,7 @@
 * Finxa
    * X1 is crafted by x2
    * lo Finxa: Art 
+   * Finxa lo: Artist
    * → lo Finxa sjeno lo: Music
    * → lo Finxa go maze: Acting; Performance Art
 * Maze
@@ -778,6 +828,7 @@
       * Fool
       * Character
       * Manner, Way
+      * → Xim xe X (he) maze lo?: How does X?
 * Parxo
    * X1 looks for x2 in x3
    * X1 searches for x2 in x3
@@ -800,10 +851,11 @@
    * X1 is mixed into x2 by x3
 * Gomblas
    * X1 works on x2
-   * X1 works
+   * X1 works, functions
    * (when x1 is a machine) X1 runs
    * lo Gomblas: Machine
    * Gomblas lo: Work
+   * → X hofte e Y gomblas: X knows how Y works
 * Twali
    * X1 is sweet, sugary
    * X2 finds x1 sweet, sugary
@@ -856,15 +908,20 @@
    * X1 is woken up by x2
    * X1 wakes up, is awake
    * lo Xeiga (adj): Awake
-* (T?D?)jen
+* Tjen
    * X1 happens every day, daily
    * lo Tjen: Day
+   * → lo Tjen pren: Today
 * Zadi
    * X1 knows x2 will happen
    * X1 is sure about x2 (happening)
    * X1 is sure
 * Saul
    * X1 is happy, glad about x2
+   * X2 gladdens x2
+* Estin
+   * X1 is sad, upset about x2
+   * X2 saddens x1
 * Erxo 
    * X1 is annoyed by x2
    * X1 finds x2 annoying
@@ -883,15 +940,15 @@
    * X1 is fresh
    * X1 is new
 * Bjanda
-   * X1 counts x2-s
+   * X1 counts x2
    * X1 measures x2
    * Lo Bjanda:
       * Number, Amount
       * Measurement
 * Jaklo
-   * X1 is made to (do) x2 by x3
+   * X1 is made, forced to (do) x2 by x3
 * Gwairu
-   * X1 is enforced by x2
+   * X1 is enforced by x2 on x3
    * lo Gwairu: Rule, Law
 * Fasai
    * X1 is put, placed by x2
@@ -919,24 +976,25 @@
 * Paskol
    * X1 is helped by x2
    * Paskol lo: Help
-* Sainga (?)
-   * X1 is allowed to do x2 by x3
-   * X3 lets x1 do x2
+* Sainga
+   * X1 allows x2 to be done by x3
+   * X1 lets x3 do x2
 * Baidal
    * X1 is colored, stained, etc white from x2 by x3
-   * X1 is brightened from x2 by x3
 * Aistu
    * X1 is colored, stained, etc black from x2 by x3
-   * X1 is darkened from x2 by x3
 * Urna
    * X1 is colored, stained, etc red from x2 by x3
 * Hadax
    * X1 is colored, stained, etc green (/blue) from x2 by x3
+* Foswa
+   * X1 is colored, stained, etc yellow from x2 by x3
 * Lauza
    * X1 plays
    * X1 has fun
-* Fulta
+* Fulti
    * X1 flies
+   * Fulti na: X1 floats on x2
 * Sjule
    * X1 sits in/on x2
 * Jehim
@@ -950,11 +1008,12 @@
    * X1 is able to be looked through
    * lo Zauraf: Window
 * Azin
-   * X1 regrets x2
-   * X1 is sorry for x2
+   * X1 regrets, is sorry about x2
+   * X1 apologizes for x2
 * Kein
    * X1 takes x2 from x3
    * X1 takes x3’s x2
+   * Kein na: X1 takes back x2
 * Drain
    * X1 is (done) behind x2
    * X1 is (done) at/on/in the back of x2
@@ -966,3 +1025,100 @@
    * X1 checks on x2
 * Hauxti
    * X1 is activated, turned on by x2
+* Dairu
+   * X1 loses x2
+   * X1 forgets x2
+* Aimben
+   * X1 is sick, ill from x2
+* Ixkal
+   * X1 is preferred by x2 over x3
+   * (When x1 is food/drink) X2 likes, loves x11
+* Feibon
+   * X1 is darkened using x2 by x3
+* Minklu
+   * X1 is brightened using x2 by x3
+* Ajau
+   * X1 is surprised, shocked by x2
+* Hofnarka
+   * X1 is put holes in by x2
+   * X2 puts a hole in x2
+* Zain
+   * X1 is intended to be done by x2
+   * X1 will happen in the future
+* Fwangar
+   * X1 trusts x2
+* Fampraro
+   * X1 breaks x2
+   * X1 ruins, destroys x2
+   * Fampraro na: X1 breaks, crumbles, falls apart
+* Dastal
+   * X1 stays in/on/at x2
+   * X1 is (done) staying in/on/at x2
+   * X1 lives, resides in/on/at x2
+   * → X dastal Y he ein: X avoids Y
+* Jaston
+   * X1 is thrown by x2
+* Saintar
+   * X1 feels (like) x2
+   * X1 experiences x2
+   * Saintar lo: Emotion, Feeling
+* Haun
+   * X1 is done upwards from, to x2
+   * X1 is done up
+* Tolna
+   * X1 hurts x2
+   * *For talking about x2’s own body, na is used. 
+* Paran
+   * X1 is on the outside of x2
+   * lo Paran: Skin
+* Nwoda
+   * X1 promises x2 for, to x3
+* Xilna
+   * X1 is fixed by x2
+* Eskalxi
+   * X1 is anxious, worried about x2
+   * lo Eskalxi: Anxiety, Worry
+* Pjaus
+   * X1 is (done) far
+   * X1 is (done) far from x2
+   * lo Pjaus: There, That
+* Aibre
+   * X1 worships x2
+   * Aibre lo: Deity
+* Laibi
+   * X1 is tired by, from x2
+* Hurga
+   * X1 is emptied of x2 by x3
+   * X1 is empty
+* Mizau
+   * X1 is amazed by x2
+* Ofanxa
+   * X1 hates x2
+* Hakrin
+   * X1 tries, attempts to (do) x2
+* Hezer
+   * X1 is opened by x2
+   * → X hezer Y he kos: X is closed by Y
+* Gwazo
+   * X1 ages x2 amount of time
+   * lo Gwazo:
+      * Elder
+      * (adj) Old
+* Weltis
+   * X1 digests, breaks down x2
+   * X2 decomposes
+   * lo Weltis: Stomach
+   * → lo Xesem weltis: Fungus, Mushroom
+* Hizen
+   * X1 flows over, through, etc x2
+* Gai
+   * X1 is done habitually by x2
+* Penga
+   * X1 bounces off, on x2
+   * Penga na: X1 jumps 
+* Haxtis
+   * X1 is placed, put, loaded into, onto, etc x2 by x3
+* Pinhau
+   * X1 beats x2 over x3
+   * X1 conquers x2
+   * X1 wins x3
