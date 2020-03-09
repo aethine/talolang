@@ -1,0 +1,34 @@
+  ---------- ----------------- --------------------
+  *Letter*   *Name*            *IPA Value*
+  A a        "A" /a/           /a/
+  B b        "Be" /be/         /b/
+  C c        "Ce" /se/         (/s/\~/t͡s/, /k/)\*
+  D d        "De" /de/         /d/
+  E e        "E" /e/           /e/
+  F f        "Ef" /ef/         /f/
+  G g        "Ge" /ge/         /g/
+  H h        "Ha" /ha/         /h/
+  I i        "I" /i/           /i/
+  J j        "Jo" /jo/         /j/
+  K k        "Ka" /ka/         /k/
+  L l        "El" /el/         /l/
+  M m        "Em" /em/         /m/
+  N n        "En" /en/         /n/
+  O o        "O" /o/           /o/
+  P p        "Pe" /pe/         /p/
+  Q q        "Ku" /ku/         (/k/)\*
+  R r        "Er" /er/         /r/
+  S s        "Es" /es/         /s/
+  T t        "Te" /te/         /t/
+  U u        "U" /u/           /u/
+  V v        "Ve" /fe/\~/we/   (/f/\~/w/)\*
+  W w        "Wa" /wa/         /w/
+  X x        "Xe" /ʃe/         /ʃ/
+  Y y        "Ya" /ja/         (/i/, /j/)\*
+  Z z        "Ze" /t͡se/        /t͡s/
+  ---------- ----------------- --------------------
+
+\*Only found in foreign words
+
+*For a guide on how to pronounce the IPA visit
+*[*http://www.ipachart.com/*](http://www.ipachart.com/)*.*
