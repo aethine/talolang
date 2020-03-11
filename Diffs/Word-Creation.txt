@@ -1,0 +1,46 @@
+Talo's three source languages are Latin, Standard Arabic, and Mandarin
+Chinese. When a word is created, it is the average of the source
+languages' respective word or words to describe the same meaning.
+Because the phonologies of each language are drastically different from
+each other and Talo itself, a guideline must be used to convert words
+from the source languages to Talo.
+
+Sound Conversion Chart:
+
+  ------ -------------------------------- -------------------------- ------------------
+  Talo   Arabic                           Chinese                    Latin
+  A      /a/, /aː/                        /a/                        /a/, /aː/
+  B      /b/                              /p/                        /b/
+  D      /d/, /dˤ/                        /t/                        /d/
+  E                                       /ɤ/, /e/                   /e/, /eː/
+  F      /f/                              /f/                        /f/
+  G      /g/                              /k/                        /g/, /gʷ/\*
+  H      /x/, /ɣ/, /ħ/, /ʕ/, /h/          /x/                        /h/
+  I      /i/, /iː/                        /i/, /y/                   /i/, /iː/
+  J      /j/                              /j/, /ɥ/                   /j/
+  K      /k/, /q/                         /kʰ/                       /k/, /kʷ/\*
+  L      /l/                              /l/                        /l/
+  M      /m/                              /m/                        /m/
+  N      /n/                              /n/, /ŋ/                   /n/
+  O                                       (\[o\], /u/)               /o/, /oː/
+  P                                       /pʰ/                       /p/
+  R      /r/                              /ɻ/                        /r/
+  S      /θ/, /ð/, /s/, /z/, /sˤ/, /zˤ/   /s/                        /s/
+  T      /t/, /tˤ/                        /tʰ/                       /t/
+  U      /u/, /uː/                        /u/                        /u/, /uː/
+  W      /w/                              /w/                        /w/
+  X      /ʃ/                              /ʂ/                        
+  Z      /d͡ʒ/                             /t͡s/, /ʈ͡ʂ/, /t͡sʰ/, /ʈ͡ʂʰ/   
+  Ai     /ai/                             /ai/                       /ae/, /oe/, /ui/
+  Au     /au/                             /au/                       /au/, /eu/
+  Ei                                      /ei/                       /ei/
+  Ou                                      /ou/                       /ou/
+  ------ -------------------------------- -------------------------- ------------------
+
+\*Latin /kʷ/ and /gʷ/ are transcribed as *kw* and *gw* respectively.
+
+Related sounds (i.e., sounds with the same place of articulation) can be
+used interchangeably if multiple languages use them. For example, if one
+language uses *w*, while another uses *b* or *p*, then a good average
+would give *f*. Diphthongs can also be used as combinations of their
+respective sounds.
