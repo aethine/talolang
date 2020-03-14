@@ -1,0 +1,51 @@
+[]{#anchor}Consonants
+
+  --------------- --------- --------- -------------- ---------
+                  Labial    Coronal   Postalveolar   Velar
+  Nasal           m         n                        
+  Voiced Stop     b         d         t͡s\~t͡ʃ         g
+  Unvoiced Stop   p\~pʰ     t\~tʰ     k\~kʰ          
+  Fricative       f         s         ʃ\~ʂ\~ɕ        x\~χ\~h
+  Liquid          w\~ʋ\~v   l         j              \(w\)
+  Rhotic          r\~ɾ                               
+  --------------- --------- --------- -------------- ---------
+
+[]{#anchor-1}Vowels
+
+  ------- ------- ------
+          Front   Back
+  Close   i       u
+  Mid     e       o
+  Open    a       
+  ------- ------- ------
+
+The diphthongs /ei/, /ai/, /au/, and /ou/ are allowed.
+
+[]{#anchor-2}Phonotactics
+
+-   The syllable consists of (C)(L)V(F) where:
+
+    -   C is all consonants
+
+    -   V is all vowels and diphthongs
+
+    -   F is all consonants except stops
+
+    -   L is l, j, w, and r (liquids)
+
+-   Consonants of the same manner of articulation (rows) cannot be in
+    clusters.
+
+-   /ʃ/ cannot appear before /j/.
+
+-   /t͡s/ cannot appear in consonant clusters.
+
+[]{#anchor-3}Sequences to avoid
+
+Although these sequences aren't illegal, they should be avoided when
+creating new vocabulary.
+
+-   Any coda j or w
+-   The sequences ji or wu
+-   Concurrent vowels that aren't diphthongs
+-   Any initial nasal or fricative + r/l
