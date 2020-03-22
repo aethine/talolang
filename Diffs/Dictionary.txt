@@ -93,6 +93,7 @@
    * X1 goes, leaves to x2
    * X1 comes to x2
    * X1 travels to x2
+   * X1 enters x2
    * *The “to” meaning in this verb is default, but using an adpositional verb can override it.
    * lo Dozu: Traveller
 * Jam
@@ -103,6 +104,7 @@
    * X2 makes up x1
    * X1 is with x2
    * lo Jam: Container
+   * → lo Jam dozu: Car, Vehicle
 * Sum
    * X1 is (done) missing x2
    * X1 is (done) without x2
@@ -120,8 +122,9 @@
    * X1 is like x2
    * X1 and x2 are alike
    * X1 and x2 match
-   * X1 seems (like) x2
+   * X1 seems (like) x2 to x3
    * X1 is x2 (where x2 is describing, an adjective to x2)
+   * X2 describes x1
 * Raxi
    * X1 rests
    * X1 sleeps
@@ -168,7 +171,7 @@
       * Text (as in “ancient texts”)
 * Xiba
    * X1 is written by x2
-   * X2 writes x1
+   * X2 writes, records x1
    * lo Xiba: 
       * Word, text
       * Letter, character
@@ -198,7 +201,7 @@
    * X1 cuts x2
    * X1 splits x2
    * X2 is divided by x1
-      * → lo ezo kere X: Half of X
+      * → lo Ezo kere X: Half of X
    * lo Kere: Knife, axe, etc
    * Kere lo
       * Part, Place, Region
@@ -215,6 +218,7 @@
    * Kimof lo: Fear
 * Hampa
    * X1 curves, bends
+   * Hampa la: X1 is straight
 * Habe
    * X1 is drank by x2
    * lo Habe: Drink
@@ -280,10 +284,13 @@
    * X1 is light (of weight)
    * X1 is done simply
    * X2 finds x1 simple, easy, light
-   * lo Hural (adj): 
-      * Easy
-      * Light
-      * Simple, Basic
+   * X2 finds comfort, solace in x1
+   * lo Hural: 
+      * (adj) Easy
+      * (adj) Light
+      * (adj) Simple, Basic
+      * (adj) Comforting, 
+      * Comfort, Solace
 * Ondar
    * X1 is done with difficulty
    * X1 is heavy
@@ -326,6 +333,7 @@
    * lo Jati: Given, Right
 * Nazelau
    * X1 is given birth to by x2
+   * X1 is born
 * Xifo
    * X1 and x2 are equal
    * X1 and x2 are the same
@@ -365,6 +373,7 @@
 * Gjum
    * X1 and x2 are together
    * X1 is (done) with x2
+   * X1 has x2 with them (most alienable)
    * Gjum na (r): X1 and x2 accompany each other
    * lo Gjum:
       * State, Nation, Country
@@ -520,6 +529,7 @@
 * Wesa
    * X1 faces outward from x2
    * X1 moves out from, of x2
+   * Wesa na: X1 leaves x2
    * lo Wesa: Face (of person, animal, shape)
 * Ahau
    * X1 is final
@@ -581,7 +591,7 @@
    * X1 is singular
    * There is one of x1
    * X1 is alone
-   * X1 is unique
+   * X1 is unique, special
    * There is only x1
    * Only x1 is done
    * X1 is one of x2
@@ -625,10 +635,10 @@
    * X1 comprehends x2
    * X1 knows how to (do) x2
 * Din
-   * X1 is at x2
-   * X1 is by x2
-   * X1 is near, nearby (to) x2
-   * X1 is where x2 is, happens
+   * X1 is (done) at x2
+   * X1 is (done) by x2
+   * X1 is (done) near, nearby (to) x2
+   * X1 is (done) where x2 is, happens
    * → lo Din X: Place of X
    * → Xol din X?: Where is X?
 * Mandi
@@ -976,6 +986,7 @@
 * Paskol
    * X1 is helped by x2
    * Paskol lo: Help
+   * X kenta e Y he paskol Z: Z helps X do Y
 * Sainga
    * X1 allows x2 to be done by x3
    * X1 lets x3 do x2
@@ -1030,9 +1041,10 @@
    * X1 forgets x2
 * Aimben
    * X1 is sick, ill from x2
+   * Aimben lo: Disease
 * Ixkal
    * X1 is preferred by x2 over x3
-   * (When x1 is food/drink) X2 likes, loves x11
+   * (When x1 is food/drink) X2 likes, loves x1
 * Feibon
    * X1 is darkened using x2 by x3
 * Minklu
@@ -1105,10 +1117,11 @@
       * Elder
       * (adj) Old
 * Weltis
-   * X1 digests, breaks down x2
-   * X2 decomposes
+   * X1 digests, breaks down, ferments x2
+   * X2 decomposes, breaks down, ferments
    * lo Weltis: Stomach
    * → lo Xesem weltis: Fungus, Mushroom
+   * → Weltis go habe: Alcohol
 * Hizen
    * X1 flows over, through, etc x2
 * Gai
@@ -1121,4 +1134,21 @@
 * Pinhau
    * X1 beats x2 over x3
    * X1 conquers x2
-   * X1 wins x3
+   * X1 wins, succeeds in x3
+* Zila
+   * X1 is pulled (to) x2 by x3
+   * *The “to” meaning can be overridden by other verbs
+* Tainu
+   * X1 is pushed (to) x2 by x3 (like zila)
+* Nen
+   * X1 is a part of x2
+   * X1 is x2’s
+   * X1 is inalienably possessed by x2 (i.e., something that cannot be traded or given away without significantly altering x2)
+* Kwomus
+   * X1 is packed into x2 by x3
+   * X kwomus he tau Y: X is packed into the shape of Y
+   * Kwomus lo: Package
+* Hauni
+   * X1 feels anger towards x2
+   * X1 is angry at x2
+   * lo Hauni: Anger
