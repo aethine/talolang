@@ -1,151 +1,274 @@
-﻿Verbs
-Verbs are the words that make up the vocabulary in Talo. Each verb is an entry in the dictionary.
+[]{#anchor}Verbs
 
+Verbs are the words that make up the vocabulary in Talo. Each verb is an
+entry in the dictionary.
 
-Verbs can take one, two, or three parameters. The first parameter is called “x1”, the second is called “x2”, and the third is called “x3”. The nouns that fill these three parameters are placed in a specific structure relative to the verb: X1 verb x2 de x3
+Verbs can take one, two, or three parameters. The first parameter is
+called "x1", the second is called "x2", and the third is called "x3".
+The nouns that fill these three parameters are placed in a specific
+structure relative to the verb: *X1 verb x2 de x3*
 
+All parameters are optionally filled; dropping a parameter can either
+mean that the parameter is general or unmentioned, or that the parameter
+is simply not present.
 
-All parameters are optionally filled; dropping a parameter can either mean that the parameter is general or unmentioned, or that the parameter is simply not present.
-* Jen djan: I want; I want it; I want (something mentioned previously); etc.
-* Djan go njau: A cat (that) is wanted; I/You/It/etc. wants a cat; (something mentioned previously) wants a cat; etc.
-Nouns
+-   *Jen djan*: I want; I want it; I want (something mentioned
+    previously); etc.
+-   *Djan go njau*: A cat (that) is wanted; I/You/It/etc. wants a cat;
+    (something mentioned previously) wants a cat; etc.
+
+[]{#anchor-1}Nouns
+
 There are two types of nouns in Talo: Pronouns and Derived Nouns.
-Pronouns
-Pronouns are single words in Talo that stand in for other nouns. They are a closed class consisting of these words:
-* Jen: “I”
-* Ti: “You”
-* Is: “He”, “She”, “They”, “It”
-* Wahan: “We” (generic or inclusive)
-* Zihan: “We” (exclusive)
-* Xim: “What”, “Who”, “Which”
-* Xol: “Where”
-* Sai: “Self”, also used to reference something that has been mentioned previously
-* Hagi: “This”, “That”
-* Kje: “One”, “Some(one)”
-* Ar: “Other(s)”
-* Zei: Something that will be mentioned with a zei-phrase
-Derived Nouns
-Derived nouns are all nouns that are derived from verbs using lo/go. Lo is placed in a certain parameter, turning the verb into a noun meaning “something that fills the x1/2/3 parameter”. Verbs in the dictionary list suggestions of the meanings of derived nouns, however deriving a noun can always mean the said definition.
-* lo Hatal: something that speaks; a speaker
-* Hatal lo: something that is spoken; a language, a phrase
 
+[]{#anchor-2}Pronouns
 
-The difference between lo and go is that lo is left-facing, and go is right-facing. This means that between two verbs (i.e, verb lo/go verb), lo will fill the x2 parameter of the left verb, and go will fill the x1 parameter of the right verb. Lo/go can only derive one verb, and only one parameter may be filled by lo/go per verb. 
+Pronouns are single words in Talo that stand in for other nouns. They
+are a closed class consisting of these words:
 
+-   *Jen*: "I"
+-   *Ti*: "You"
+-   *Is*: "He", "She", "They", "It"
+-   *Wahan*: "We" (generic or inclusive)
+-   *Zihan*: "We" (exclusive)
+-   *Xim*: "What", "Who", "Which"
+-   *Xol*: "Where"
+-   *Sai*: "Self", also used to reference something that has been
+    mentioned previously
+-   *Hagi*: "This", "That"
+-   *Kje*: "One", "Some(one)"
+-   *Ar*: "Other(s)"
+-   *Zei*: Something that will be mentioned with a zei-phrase
 
-However, if for example a derived noun starts with lo and does not follow a different verb, the lo can still derive the first verb’s x1 parameter. This means, in an unambiguous situation (i.e., not after a verb), either lo or go can be used. In this case, lo is preferred.
+[]{#anchor-3}Derived Nouns
 
+Derived nouns are all nouns that are derived from verbs using *lo*/*go*.
+*Lo* is placed in a certain parameter, turning the verb into a noun
+meaning "something that fills the x1/2/3 parameter". Verbs in the
+dictionary list suggestions of the meanings of derived nouns, however
+deriving a noun can always mean the said definition.
 
-Lo can be combined with de to form the shortened form do. Because de is right facing, do is always right facing.
+-   *lo Hatal*: something that speaks; a speaker
+-   *Hatal lo*: something that is spoken; a language, a phrase
 
+The difference between *lo* and *go* is that *lo* is left-facing, and
+*go* is right-facing. This means that between two verbs (i.e, *verb
+lo/go verb*), *lo* will fill the x2 parameter of the left verb, and *go*
+will fill the x1 parameter of the right verb. *Lo*/*go* can only derive
+one verb, and only one parameter may be filled by *lo*/*go* per verb.
 
-Derived nouns can also be passed parameters. These are called “compound nouns”. 
-* lo Ikou go wah: All of the dogs; Every dog
-* lo Ikou e wah: All barks; Every bark
-Compound nouns do not need e to pass them as a parameter, because they do not count as verb phrases. Because of this, a sentence like Jen dogan fai he hir lo is valid, even if two un-derived verbs are adjacent.
-Verb Phrases
-Verb phrases are any group of words containing a non-derived verb, called the “main verb”. This also includes verbs that take no parameters. Note that a noun by itself does not make a verb phrase, and thus cannot alone form a complete thought. 
+However, if for example a derived noun starts with *lo* and does not
+follow a different verb, the *lo* can still derive the first verb's x1
+parameter. This means, in an unambiguous situation (i.e., not after a
+verb), either *lo* or *go* can be used. In this case, *lo* is preferred.
 
+*Lo* can be combined with *de* to form the shortened form *do*. Because
+*de* is right facing, *do* is always right facing.
 
-Verb phrases are divided by e/he and a, which are called “conjunctions”. 
-E/He: “That”
-E and he are used to pass in a verb phrase as a parameter.
-Jen djan e hatal: I want to speak (lit. I want that (I) speak)
+Derived nouns can also be passed parameters. These are called "compound
+nouns".
 
+-   *lo Ikou go wah*: All of the dogs; Every dog
+-   *lo Ikou e wah*: All barks; Every bark
 
-The difference between e and he are similar to the lo/go distinction. E is right-facing, and he is left-facing. This means e takes the verb phrase after it and passes it into the verb behind it. He does the reverse.
+Compound nouns do not need *e* to pass them as a parameter, because they
+do not count as verb phrases. Because of this, a sentence like *Jen
+dogan fai he hir lo* is valid, even if two un-derived verbs are
+adjacent.
 
+[]{#anchor-4}Verb Phrases
 
-E can be combined with de to form the shortened form di. Because de is right facing, di is always right facing.
-A: “And”
-A connects two related verb phrases. It also can start a verb phrase, with the meaning of “also”, “plus”, etc.
-O-Questions
-O-Questions are yes or no questions created from verb phrases marked by the particle o. O is placed before the non-particle word the speaker is asking about, or at the very start of the sentence when a one-word focus is not desired.
+Verb phrases are any group of words containing a non-derived verb,
+called the "main verb". This also includes verbs that take no
+parameters. Note that a noun by itself does not make a verb phrase, and
+thus cannot alone form a complete thought.
 
+Verb phrases are divided by *e*/*he* and *a*, which are called
+"conjunctions".
 
-The response to an o-question is to repeat the question, replacing o with either ei for “yes”, or bu for “no”. Ei and bu can also be used by themselves to achieve the same thing.
+[]{#anchor-5}E/He: "That"
 
+*E* and *he* are used to pass in a verb phrase as a parameter.
 
-* O is djan hagi?: Do they want this?
-* Ei is djan hagi.: Yes, they want this. 
-* Bu is djan (la) hagi.: No, they don’t want this. 
-* Is o djan hagi?: They want this? (as opposed to someone else)
-* Is djan hagi o?: They want this? (as opposed to something else)
-Foreign Names
-To deal with foreign names, bi can be used to turn a name into a noun. If a verb is desired, wa can be used in the same way. 
-* Jen zango bi Europe/Evropa.: I am from Europe.
-* lo Abi wa Europe/Evropa.: A European person.
-Names can either be spelled with an orthography of a different language, or Talo-cized (both shown in the examples). The foreign orthography is read as a Talo-cized version of how the name would be read in the foreign language. Using foreign letters (C, Q, V, Y) is optional.
-Multiple-Noun Parameters
-To use multiple nouns to fill one parameter, the list particle i is used. After the first noun, an i must be placed before each additional noun filling the same parameter.
-* Jen i ti dozu e zango go ibel: You and I go home
-* Jen djan go wah i lo njau: I want a dog and a cat
+*Jen djan **e** hatal*: I want to speak (lit. I want that (I) speak)
 
+The difference between *e* and *he* are similar to the *lo*/*go*
+distinction. *E* is right-facing, and *he* is left-facing. This means
+*e* takes the verb phrase after it and passes it into the verb behind
+it. *He* does the reverse.
 
-I can also introduce a verb phrase when followed by e. These two particles can be combined to form je.
-Jen djan go wah, je lo njau sapri: I want a dog and a small cat
-Negation
-To negate a verb phrase, the particle la is placed after the main verb. Certain nouns can be formed by adding la to the verb part of a derived noun. 
-* Jen djan go rai: I want something
-* Jen djan go rai la: I want nothing
-* Jen djan la go rai: I don’t want something
-* Jen djan la go rai la: I don’t want nothing
+*E* can be combined with *de* to form the shortened form *di*. Because
+*de* is right facing, *di* is always right facing.
 
+[]{#anchor-6}A: "And"
 
-Negation does not “agree” with other verbs or nouns, which means double negatives cancel each other.
-Reciprocation
-The particle na can come after a main verb, marking it as either reflexive or reciprocal.
-* Jen hatal de ti: I talk to you
-* Jen hatal na: I talk to my self, I talk about myself
-* Jen hatal na de ti: I talk about myself to you
-* Jen i ti hatal na: You and I talk (to each other)
+*A* connects two related verb phrases. It also can start a verb phrase,
+with the meaning of "also", "plus", etc.
 
+[]{#anchor-7}O-Questions
 
-Zei-Phrases
-To reorder a sentence, the zei-phrase construction can be used. The pronoun zei can be used to fill any parameter, which then can then be fleshed out later in the sentence, after a semicolon plus e.
-* Dozu zango lo he zain jen
-* Zei zain jen; e dozu zango lo
+O-Questions are yes or no questions created from verb phrases marked by
+the particle *o*. *O* is placed before the non-particle word the speaker
+is asking about, or at the very start of the sentence when a one-word
+focus is not desired.
 
+The response to an o-question is to repeat the question, replacing *o*
+with either *ei* for "yes", or *bu* for "no". *Ei* and *bu* can also be
+used by themselves to achieve the same thing.
 
-Both of the above sentences are equivalent; they both mean “I’m going to go home”. Note that the second sentence is closer to english word order, so an english speaker may have an easier time structuring their thought that way. 
-Punctuation
-Punctuation in Talo indicates a certain amount of units of pause (lo ju iste), which in turn convey some kind of grammatical grouping. The unit of pause is equivalent to about one Talo syllable.
+-   *O is djan hagi?*: Do they want this?
+-   *Ei is djan hagi.*: Yes, they want this.
+-   *Bu is djan (la) hagi.*: No, they don't want this.
+-   *Is o djan hagi*?: *They* want this? (as opposed to someone else)
+-   *Is djan hagi o?*: They want *this*? (as opposed to something else)
 
+[]{#anchor-8}Foreign Names
 
-* Period/Full Stop (lo Lauma hajus), 3 units
-   * Indicates the end of a complete thought and verb phrase.
-* Comma (lo Lauma kere), 1 unit 
-   * Comes before a when it connects two verb phrases, and optionally after it if it starts a sentence. 
-   * Comes before i, optional if there are only two elements in the list. 
-   * Escapes nested e, so that an he or de applies above the current “scope”, instead of just the scope of something after the previous e. 
-   * Optionally comes after ei or bu if they are the first word of a phrase. 
-* Semicolon (lo Lauma judux), 2 units
-   * Must appear before e
-   * Indicates the second part of a zei-phrase. 
-* Colon (lo Lauma lauma), 2 units
-   * Cannot appear before e. 
-   * Indicates the same amount of pause as a semicolon without indicating a zei-phrase. 
-   * Used to introduce a quote, in place of e. 
-* Quotes (lo Lauma mjuwas), 0 units
-   * Optional as they do not indicate a spoken pause
-   * Used to enclose a quote
-   * Used to enclose a name after bi or wa. 
-Scope
-The “scope” of a word is determined by how many es have been used before the word. The scope spans from the current word, left, to the last e. 
-* (Jen djan (e fai (e hatal is.))): I want to do it.
-* (Jen djan (e fai (e hatal is he jada.))): I want to do it now. (here he jada is affecting the “hatal is” scope.)
-* (Jen djan (e fai (e hatal is)), he jada.): Now I want to do it. (here, because of the comma, he jada affects the entire phrase.
+To deal with foreign names, *bi* can be used to turn a name into a noun.
+If a verb is desired, *wa* can be used in the same way.
 
+-   *Jen zango bi Europe/Evropa.*: I am from Europe.
+-   *lo Abi wa Europe/Evropa.*: A European person.
 
-Commas can be used to escape the scope of the current word. It is ambiguous, however, what exact scope the comma escapes to; it escapes to any scope above the current one.
+Names can either be spelled with an orthography of a different language,
+or Talo-cized (both shown in the examples). The foreign orthography is
+read as a Talo-cized version of how the name would be read in the
+foreign language. Using foreign letters (C, Q, V, Y) is optional.
 
+[]{#anchor-9}Multiple-Noun Parameters
 
-Scopes are also split by a, i, and other forms of punctuation. 
-* (Jen djan go wah), a (jen djan go njau he jada).: I want a dog, and I want a cat now.
-Scripts
-To make using Talo as easy as possible, its orthography uses the latin script. However, as well of a fit the script might be to Talo’s phonology, it is not necessary that the language use it. 
-Capitalization
-There are three capitalization “formats” that can be used:
-* Normal capitalization: The first word that isn’t lo has its first letter capitalized. lo Njau der go wah.
-* Title capitalization: All non-particle words, and non-lo particles at the beginning of the sentence, have their first letter capitalized. lo Njau Der go Wah.
-* All-Caps: Every letter is capitalized. LO NJAU DER GO WAH.
+To use multiple nouns to fill one parameter, the list particle *i* is
+used. After the first noun, an *i* must be placed before each additional
+noun filling the same parameter.
+
+-   *Jen i ti dozu e zango go ibel*: You and I go home
+-   *Jen djan go wah i lo njau*: I want a dog and a cat
+
+*I *can also introduce a verb phrase when followed by *e*. These two
+particles can be combined to form *je*.
+
+*Jen djan go wah, je lo njau sapri*: I want a dog and a small cat
+
+[]{#anchor-10}Negation
+
+To negate a verb phrase, the particle *la* is placed after the main
+verb. Certain nouns can be formed by adding *la* to the verb part of a
+derived noun.
+
+-   *Jen djan go rai*: I want something
+-   *Jen djan go rai **la***: I want nothing
+-   *Jen djan **la** go rai*: I don't want something
+-   *Jen djan **la** go rai **la***: I don't want nothing
+
+Negation does not "agree" with other verbs or nouns, which means double
+negatives cancel each other.
+
+[]{#anchor-11}Reciprocation
+
+The particle *na* can come after a main verb, marking it as either
+reflexive or reciprocal.
+
+-   *Jen hatal de ti*: I talk to you
+-   *Jen hatal **na***: I talk to my self, I talk about myself
+-   *Jen hatal **na** de ti*: I talk about myself to you
+-   *Jen i ti hatal **na***: You and I talk (to each other)
+
+[]{#anchor-12}Zei-Phrases
+
+To reorder a sentence, the zei-phrase construction can be used. The
+pronoun *zei* can be used to fill any parameter, which then can then be
+fleshed out later in the sentence, after a semicolon plus *e*.
+
+-   *Dozu zango lo he zain jen*
+-   *Zei zain jen; e dozu zango lo*
+
+Both of the above sentences are equivalent; they both mean "I'm going to
+go home". Note that the second sentence is closer to english word order,
+so an english speaker may have an easier time structuring their thought
+that way.
+
+[]{#anchor-13}Punctuation
+
+Punctuation in Talo indicates a certain amount of units of pause *(lo ju
+iste)*, which in turn convey some kind of grammatical grouping. The unit
+of pause is equivalent to about one Talo syllable.
+
+-   Period/Full Stop (*lo Lauma hajus*), 3 units
+
+    -   Indicates the end of a complete thought and verb phrase.
+
+-   Comma (*lo Lauma kere*), 1 unit
+
+    -   Comes before *a* when it connects two verb phrases, and
+        > optionally after it if it starts a sentence.
+
+    -   Comes before *i*, optional if there are only two elements in the
+        > list.
+
+    -   Escapes nested *e*, so that an *he* or *de* applies above the
+        > current "scope", instead of just the scope of something after
+        > the previous *e*.
+
+    -   Optionally comes after *ei* or *bu* if they are the first word
+        > of a phrase.
+
+-   Semicolon (*lo Lauma judux*), 2 units
+
+    -   Must appear before *e*
+
+    -   Indicates the second part of a zei-phrase.
+
+-   Colon (*lo Lauma lauma*), 2 units
+
+    -   Cannot appear before *e*.
+
+    -   Indicates the same amount of pause as a semicolon without
+        > indicating a zei-phrase.
+
+    -   Used to introduce a quote, in place of *e*.
+
+-   Quotes (*lo Lauma mjuwas*), 0 units
+
+    -   Optional as they do not indicate a spoken pause
+
+    -   Used to enclose a quote
+
+    -   Used to enclose a name after *bi* or *wa*.
+
+[]{#anchor-14}Scope
+
+The "scope" of a word is determined by how many *e*s have been used
+before the word. The scope spans from the current word, left, to the
+last *e*.
+
+-   *(Jen djan (e fai (e hatal is.)))*: I want to do it.
+-   *(Jen djan (e fai (e hatal is he jada.)))*: I want to do it now.
+    (here *he jada* is affecting the "*hatal is*" scope.)
+-   *(Jen djan (e fai (e hatal is)), he jada.)*: Now I want to do it.
+    (here, because of the comma, *he jada* affects the entire phrase.
+
+Commas can be used to escape the scope of the current word. It is
+ambiguous, however, what exact scope the comma escapes to; it escapes to
+*any* scope above the current one.
+
+Scopes are also split by *a,* *i*, and other forms of punctuation.
+
+-   *(Jen djan go wah), a (jen djan go njau he jada)*.: I want a dog,
+    and I want a cat now.
+
+[]{#anchor-15}Scripts
+
+To make using Talo as easy as possible, its orthography uses the latin
+script. However, as well of a fit the script might be to Talo's
+phonology, it is not necessary that the language use it.
+
+[]{#anchor-16}Capitalization
+
+There are three capitalization "formats" that can be used:
+
+-   Normal capitalization: The first word that isn't *lo* has its first
+    letter capitalized. *lo Njau der go wah.*
+-   Title capitalization: All non-particle words, and non-*lo* particles
+    at the beginning of the sentence, have their first letter
+    capitalized. *lo Njau Der go Wah.*
+-   All-Caps: Every letter is capitalized. *LO NJAU DER GO WAH.*

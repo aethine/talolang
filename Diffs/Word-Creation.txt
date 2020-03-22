@@ -41,6 +41,6 @@ Sound Conversion Chart:
 
 Related sounds (i.e., sounds with the same place of articulation) can be
 used interchangeably if multiple languages use them. For example, if one
-language uses *w*, while another uses *b* or *p*, then a good average
+language uses *w,* while another uses *b* or *p*, then a good average
 would give *f*. Diphthongs can also be used as combinations of their
 respective sounds.
